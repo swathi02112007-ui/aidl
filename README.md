@@ -128,6 +128,8 @@ public class ColorService extends Service {
 
 ### SERVER OUTPUT
 
+<img width="1917" height="1021" alt="image" src="https://github.com/user-attachments/assets/41d41d2b-486e-49e5-a70b-63405cf848f5" />
+
 <img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/50490636-e70b-46db-8d0e-34d8de81c676" />
 
 ### CLIENT APP
@@ -289,6 +291,8 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ### CLIENT OUTPUT
+
+<img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/ead61adf-c4c7-436e-8424-e86c175dc108" />
 
 <img width="1913" height="1021" alt="image" src="https://github.com/user-attachments/assets/dbb622bc-4a75-4577-a467-a8c1636515ed" />
 
